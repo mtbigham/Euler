@@ -20,4 +20,4 @@ def summation_of_primes(target):
 			sum += index
 	return sum
 
-print summation_of_primes(1000000)
+print summation_of_primes(2000000)
